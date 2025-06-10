@@ -1,5 +1,5 @@
-# proxima System - Backend
-Welcome to the backend of the proxima ! This project is built with Flask and SQLAlchemy. 
+# Proxima Centauri community
+Welcome to the backend of the Proxima Centauri community ! This project is built with Flask and SQLAlchemy. 
 It handles user authentication, transaction management, and database interactions, all while using JWT for secure authentication.
 ## Features
  User Authentication: Users can register and log in using JWT tokens.
